@@ -1,6 +1,4 @@
 scenario,baseline_false_alarms,baseline_missed_hazards,baseline_reaction_time_steps,aeis_false_alarms,aeis_missed_hazards,aeis_reaction_time_steps,outputs_dir
-false_alarm_stress,5,0,,57,0,,results/false_alarm_stress
-real_hazard_escalation,0,51,,21,51,,results/real_hazard_escalation
+false_alarm_stress,22,0,,63,0,,results/false_alarm_stress
+real_hazard_escalation,1,51,,24,51,,results/real_hazard_escalation
 sensor_dropout,0,46,,0,46,,results/sensor_dropout
-
-
