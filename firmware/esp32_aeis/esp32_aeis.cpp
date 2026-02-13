@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include "DHT.h"
 #include <Wire.h>
 #include <math.h>
